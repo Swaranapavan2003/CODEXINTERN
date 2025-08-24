@@ -1,20 +1,19 @@
 # House Price Prediction Project
-# House Price Prediction using California Housing Dataset
-        
-        This project is a simple implementation of a House Price Prediction model using the California Housing dataset from sklearn. It demonstrates how to load, preprocess, and train a regression model to predict housing prices based on features such as size, location, number of bedrooms, and more.
+#House Price Prediction using California Housing Dataset
+        *This project is a simple implementation of a House Price Prediction model using the California Housing dataset from sklearn. It demonstrates how to load, preprocess, and train a regression model to predict housing prices based on features such as size, location, number of bedrooms, and more.
 
 #Objective: 
-      Predict the price of a house based on features such as size, location, and number of bedrooms using machine learning.
+     * Predict the price of a house based on features such as size, location, and number of bedrooms using machine learning.
 
 #Dataset:
-  California Housing Dataset
+  *California Housing Dataset
       *Loaded using sklearn.datasets.fetch_california_housing. It contains:
           * 20,640 samples
           * 8 numerical features (e.g., MedInc, HouseAge, AveRooms, etc.)
-          Target: Median house value for California districts
+          * Target: Median house value for California districts
 
 #Step 1: Import Required Libraries
-        Essential Python libraries such as Pandas, NumPy, Scikit-learn, Seaborn, and Matplotlib are imported for data                 manipulation, visualization, modeling, and evaluation.
+       * Essential Python libraries such as Pandas, NumPy, Scikit-learn, Seaborn, and Matplotlib are imported for data                  manipulation, visualization, modeling, and evaluation.
 
 #Step 2: Load and Explore the Dataset
         * The Boston Housing dataset is loaded and converted into a DataFrame.
@@ -48,8 +47,8 @@
        * A scatter plot is created to visualize "actual vs predicted prices".
 
 #Sample Output:
-         Mean Squared Error (MSE): 24.29
-         R-squared (R^2 Score): 0.71
+       *  Mean Squared Error (MSE): 24.29
+       *  R-squared (R^2 Score): 0.71
 
 #Skills Gained:
 
@@ -70,8 +69,8 @@
           AI/ML Intern | CodexIntern
 
 #Note:
-       As of scikit-learn v1.2, the Boston dataset is deprecated due to ethical concerns about the B feature. You can use  California Housing Dataset as a modern alternative..
+    *   As of scikit-learn v1.2, the Boston dataset is deprecated due to ethical concerns about the B feature. You can use  California Housing Dataset as a modern alternative..
 
 #License:
-    This project is open-source and available for educational purposes.
+  *  This project is open-source and available for educational purposes.
 
