@@ -1,9 +1,9 @@
 # House Price Prediction Project
-**House Price Prediction using California Housing Dataset**
+# House Price Prediction using California Housing Dataset
         This project is a simple implementation of a House Price Prediction model using the California Housing dataset from sklearn. It demonstrates how to load, preprocess, and train a regression model to predict housing prices based on features such as size, location, number of bedrooms, and more.
 
 # Objective:
-     Predict the price of a house based on features such as size, location, and number of bedrooms using machine learning.
+      Predict the price of a house based on features such as size, location, and number of bedrooms using machine learning.
 
 # Dataset:
   California Housing Dataset
