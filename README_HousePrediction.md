@@ -20,7 +20,8 @@ Step 2: Load and Explore the Dataset
         * Initial exploration is performed using '.head()' and '.info()'.
 
 Step 3: Visualize Data
-        * Distribution of house prices is plotted using a histogram.        * A correlation heatmap shows how each feature correlates with price.
+        * Distribution of house prices is plotted using a histogram.       
+        * A correlation heatmap shows how each feature correlates with price.
 
  Step 4: Check for Missing Values
         * The dataset is scanned for any missing values.
@@ -30,20 +31,20 @@ Step 3: Visualize Data
 
  Step 6: Split Data
 
-        * Dataset is split into **80% training** and **20% testing** using             'train_test_split()'.
+        * Dataset is split into *80% training* and *20% testing* using'train_test_split()'.
 
 #Step 7: Model Training
-        * A **Linear Regression** model is trained on the training set.
+        * A *Linear Regression*model is trained on the training set.
 
 Step 8: Predictions
         * The trained model makes predictions on the test set.
 
  #Step 9: Model Evaluation
-      * Metrics like **Mean Squared Error (MSE)** and **R-squared (R²)**              score are computed.
+      * Metrics like **Mean Squared Error (MSE)**and **R-squared (R²)**score are computed.
 
 Step 10: Visualization
 
-       * A scatter plot is created to visualize "actual vs predicted                  prices".
+       * A scatter plot is created to visualize "actual vs predicted prices".
 
 Sample Output:
          Mean Squared Error (MSE): 24.29
