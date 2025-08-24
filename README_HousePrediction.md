@@ -31,7 +31,7 @@ Step 3: Visualize Data
 
  Step 6: Split Data
 
-        * Dataset is split into *80% training* and *20% testing* using'train_test_split()'.
+        * Dataset is split into *80%training* and *20%testing* using'train_test_split()'.
 
 #Step 7: Model Training
         * A *Linear Regression*model is trained on the training set.
@@ -50,20 +50,20 @@ Sample Output:
          Mean Squared Error (MSE): 24.29
          R-squared (R^2 Score): 0.71
 
-Skills Gained
+Skills Gained:
 
       * Data visualization and exploration
       * Regression modeling using scikit-learn
       * Model evaluation using MSE and R²
       * Feature scaling and data preprocessing
 
-Future Enhancements
+Future Enhancements:
 
       * Use other regression models like Random Forest or XGBoost
       * Apply hyperparameter tuning (GridSearchCV)
       * Replace the dataset with a modern housing dataset (e.g., from Kaggle)
 
- Author"
+ Author:
 
     Swarna Pavan
           AI/ML Intern | CodexIntern
@@ -71,6 +71,6 @@ Future Enhancements
 Note:
        As of scikit-learn v1.2, the Boston dataset is deprecated due to ethical concerns about the B feature. You can use  California Housing Dataset as a modern alternative..
 
-License
+License:
     This project is open-source and available for educational purposes.
 
